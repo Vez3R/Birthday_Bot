@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Birthday_Bot", "Birthday_Bot.pyproj", "{1A6E7AC1-191A-404F-85F4-6282EBDDD746}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A6E7AC1-191A-404F-85F4-6282EBDDD746}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A6E7AC1-191A-404F-85F4-6282EBDDD746}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9AB609D-E2ED-4E14-8BF0-45C0037641DE}
+	EndGlobalSection
+EndGlobal
