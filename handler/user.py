@@ -102,10 +102,6 @@ async def cmd_start(message: Message,state: FSMContext):
                 result[i][2]=""
             lst+=f"{i+1}. {result[i][1]}   {in_subs(str(message.from_user.id),result[i][2].split())}\n"
         await message.answer(
-        f"Укажите на каких пользователей вы хотите быть подписаны или хотите отписаться.\n"
-        f"Напишите номера нужных пользователей через пробел."
-        )
-        await message.answer(
         f"Список пользователей:\n\n"
         f"{lst}"
         )
